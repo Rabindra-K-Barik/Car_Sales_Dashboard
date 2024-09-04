@@ -26,5 +26,4 @@ _*Note #2: YOY- Year-over-Year_
 - YTD Cars Sold by Dealer Region
 - Company-Wise Sales Trend
 
-## Credits
-This dataset is sourced from [Swapnjeet S](https://www.linkedin.com/in/swapnjeet-s-58a673273/).
+
